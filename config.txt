@@ -1,0 +1,8 @@
+MasterHost=localhost
+MasterListeningPort=5000
+SlaveListeningPort=6000
+HeartbeatPort=7000
+HeartbeatIntervalms=20000
+SlaveCount=1
+Slave List:
+localhost 5 cores
